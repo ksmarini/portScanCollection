@@ -25,5 +25,6 @@ class PortScan {
         // port 1-65535
         // Open a TCP connection for each port
         // 
+        //stop 17:50
     }
 }
